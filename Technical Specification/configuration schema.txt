@@ -1,0 +1,23 @@
+Store Works
+	id: "Generate DB" 
+	productName: String  // укладка плитки на стену
+	price: Number        // 1300
+	category: [String, String] // ванная, 
+	ongoinWorks: [String, String] //штукатурка, грунтовка, армирование стены, установка мая и тд
+
+Stotre Material
+	id: "Generate DB" 
+	prodectName: Шпатлевка 
+	description: text
+	pricre: 200
+	categoryWork: [String, шпатлевка стен] //
+
+Data Forms registration 
+	Name: String
+	Surname: String 
+	Password: String _ duble 
+	avatar: [ img, jpg, png ]
+	
+
+
+
